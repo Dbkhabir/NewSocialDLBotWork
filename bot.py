@@ -25,8 +25,8 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # ==================== Config ====================
-TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
-ZYLA_API_KEY = os.environ.get("ZYLA_API_KEY", "12368|FQZM8X1GtUdl98NngHB9tcM2Ff5caNkaoyiXAF7E")
+TELEGRAM_BOT_TOKEN = os.environ.get("8420650438:AAHN6nORscqAc72_2A9Cc00_xxTUK0dpXHQ")
+ZYLA_API_KEY = os.environ.get("ZYLA_API_KEY", "12760|sFVFf9hdF4QgQjp5OGuqgIF6mFnCJ698KjQxBsPg")
 PORT = int(os.environ.get("PORT", 10000))
 BOT_USERNAME = "@NewSocialDLBot"
 BOT_VERSION = "3.2"
